@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Доставка",
+        "url": "#",
+        "tag": "delivery"
+    },
+    {
+        "name": "О нас",
+        "url": "#",
+        "tag": "about"
+    },
+    {
+        "name": "Каталог",
+        "url": "#",
+        "tag": "catalog"
+    },
+    {   
+        "name": "Контакты",
+        "url": "#",
+        "tag": "contact"
+    }
+]
