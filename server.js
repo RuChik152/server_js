@@ -15,7 +15,8 @@ app.listen(3000, () => {
 
 app.use(express.json());
 
-app.use('/', express.static('../home_work/lesson2/dist/'));
+//путь к каталогу с фронтенд частью
+app.use('/', express.static('../home_work/lesson3/dist/'));
 
 
 app.get('/api/getProduct', (req, res) => {
